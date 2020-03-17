@@ -1,4 +1,8 @@
 #include <stdio.h>
+int callmeFunc(char *string)
+{
+	printf("Value =%s\n",string);
+}
 int main()
 {
 	//commenting out as this function is not defined
