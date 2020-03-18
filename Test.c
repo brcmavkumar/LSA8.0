@@ -2,6 +2,7 @@
 int callmeFunc(char *string)
 {
 	printf("Value =%s\n",string);
+	return 0;
 }
 int main()
 {
